@@ -1,2 +1,7 @@
 # Dr.-Mario
-A recreation of the game Doctor Mario
+#### By Ali Rahbar
+
+This is a recreation of the game Doctor Mario. 
+
+
+
